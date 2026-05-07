@@ -7,7 +7,8 @@ import Navbar from './sections/Navbar';
 import Hero from './sections/Hero';
 import ProblemStory from './sections/ProblemStory';
 import DashboardShowcase from './sections/DashboardShowcase';
-import AppScreenshotSlider from './sections/AppScreenshotSlider';
+
+
 import TrustBadge from './sections/TrustBadge';
 import CTASection from './sections/CTASection';
 import Footer from './sections/Footer';
@@ -55,7 +56,7 @@ export default function App() {
         <Hero animate={loaded} />
         <ProblemStory />
         <DashboardShowcase />
-        <AppScreenshotSlider />
+
         <TrustBadge />
         <CTASection />
       </main>

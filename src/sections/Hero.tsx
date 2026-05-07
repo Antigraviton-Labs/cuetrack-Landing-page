@@ -99,9 +99,9 @@ export default function Hero({ animate }: HeroProps) {
               className="opacity-0 translate-y-5 flex items-center gap-4"
             >
               <img
-                src="/images/Cuetrack-Logo.png"
+                src="/images/logo.png"
                 alt="CueTrack"
-                className="w-12 h-12 object-contain"
+                className="w-12 h-12 object-contain rounded-full"
                 style={{ filter: 'drop-shadow(0 0 12px rgba(0, 255, 136, 0.3))' }}
               />
               <span

@@ -65,9 +65,9 @@ export default function Navbar() {
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
         >
           <img
-            src="/images/Cuetrack-Logo.png"
+            src="/images/logo.png"
             alt="CueTrack"
-            className="w-10 h-10 object-contain transition-transform duration-300 group-hover:scale-110"
+            className="w-10 h-10 object-contain transition-transform duration-300 group-hover:scale-110 rounded-full"
             style={{ filter: 'drop-shadow(0 0 8px rgba(0, 255, 136, 0.3))' }}
           />
           <div className="font-heading text-xl font-bold tracking-widest" style={{ letterSpacing: '0.08em' }}>

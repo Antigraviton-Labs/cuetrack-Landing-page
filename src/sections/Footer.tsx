@@ -77,9 +77,9 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-3 mb-5">
               <img
-                src="/images/Cuetrack-Logo.png"
+                src="/images/logo.png"
                 alt="CueTrack"
-                className="w-10 h-10 object-contain"
+                className="w-10 h-10 object-contain rounded-full"
                 style={{ filter: 'drop-shadow(0 0 8px rgba(0, 255, 136, 0.3))' }}
               />
               <div className="font-heading text-2xl font-bold tracking-widest" style={{ letterSpacing: '0.08em' }}>

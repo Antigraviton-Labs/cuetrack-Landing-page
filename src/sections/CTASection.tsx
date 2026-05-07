@@ -140,9 +140,9 @@ export default function CTASection() {
           <div className="text-center lg:text-left">
             {/* Logo */}
             <img
-              src="/images/Cuetrack-Logo.png"
+              src="/images/logo.png"
               alt="CueTrack"
-              className="cta-logo w-20 h-20 object-contain mb-8 mx-auto lg:mx-0"
+              className="cta-logo w-20 h-20 object-contain mb-8 mx-auto lg:mx-0 rounded-full"
               style={{ filter: 'drop-shadow(0 0 20px rgba(0, 255, 136, 0.3))' }}
             />
 

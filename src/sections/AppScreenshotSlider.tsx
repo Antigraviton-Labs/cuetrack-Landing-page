@@ -103,7 +103,7 @@ export default function AppScreenshotSlider() {
               letterSpacing: '-0.5px'
             }}
           >
-            ⚡ CueTrak in action
+            ⚡ CueTrack in action
           </h2>
           <p className="text-[0.9rem] mt-1" style={{ color: '#ccc' }}>
             Offline club manager — 10 real screenshots

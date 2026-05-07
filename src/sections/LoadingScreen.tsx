@@ -127,9 +127,9 @@ export default function LoadingScreen({ onComplete }: LoadingScreenProps) {
         {/* Logo Image */}
         <img
           ref={logoImgRef}
-          src="/images/Cuetrack-Logo.png"
+          src="/images/logo.png"
           alt="CueTrack Logo"
-          className="relative w-24 h-24 sm:w-28 sm:h-28 object-contain opacity-0"
+          className="relative w-24 h-24 sm:w-28 sm:h-28 object-contain rounded-full opacity-0"
           style={{ filter: 'drop-shadow(0 0 20px rgba(0, 255, 136, 0.3))' }}
         />
       </div>
